@@ -21,3 +21,10 @@ public class FirstMockitoTest {
 
 //what is stub?
 // Stub is a fake implementation of a class used for testing.
+
+
+//mockito annonations
+// @Mock
+// @InjectMocks
+// @RunWith(MockitoJUnitRunner.class)
+// @Captor
